@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "448621409845",
+    "project_id": "pa-pm-kelompok-2",
+    "storage_bucket": "pa-pm-kelompok-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448621409845:android:4805de1a75f7e38021637c",
+        "android_client_info": {
+          "package_name": "com.example.pa_profile_and_search"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448621409845-d45j4snf4hk3tfuu0afh83idd702l1va.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSO4c89t1sC8DXGUOP_Tms-W1K8grrSb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448621409845-d45j4snf4hk3tfuu0afh83idd702l1va.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
